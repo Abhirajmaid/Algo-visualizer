@@ -1,6 +1,8 @@
 ## This is Algo-Visualizer
 
-<ins>Visualization of different sorting algorithms in C++ with SDL2 Library.</ins>
+![App Screenshot](https://i.ytimg.com/vi/RDCFpf6CXl8/sddefault.jpg)
+
+<ins>**Visualization of different sorting algorithms in C++ with SDL2 Library.**</ins>
 
 A sorting algorithm is an algorithm that puts the elements of a list in a certain order. While there are a large number of sorting algorithms, in practical implementations a few algorithms predominate.
 In this implementation of sorting visualizer, we'll be looking at some of these sorting algorithms and visually comprehend their working.
